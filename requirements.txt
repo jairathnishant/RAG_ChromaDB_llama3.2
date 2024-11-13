@@ -1,0 +1,6 @@
+pypdf[crypto]==5.1.0
+chromadb==0.5.18
+torch
+transformers
+sentence_transformers==4.46.2
+gradio==5.5.0
